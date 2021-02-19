@@ -1,2 +1,2 @@
-# resume.winternals.net
-resume.winternals.net
+# resume.kernel.az
+resume.kernel.az
