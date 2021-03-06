@@ -1,7 +1,12 @@
 # Jobs
 - company: Eurodesign CSC
+  position: DevOps Engineer
+  duration: Jan, 2021 &mdash; Present
+  summary: Baku, Azerbaijan
+
+- company: Eurodesign CSC
   position: Infrastructure Engineer
-  duration: Feb, 2020 &mdash; Present
+  duration: Feb, 2020 &mdash; Jan, 2021
   summary: Baku, Azerbaijan
 #<ul class="resume-item-list">
 #<li>A project you are proud of</li>
@@ -11,22 +16,22 @@
 
 - company: ASB OJSC
   position: Network Administrator
-  duration: Aug, 2019 &mdash; Jan, 2020
+  duration: Aug, 2019 &mdash; Feb, 2020
   summary: Baku, Azerbaijan
 
 - company: Azerbaijan Deposit Insurance Fund
-  position: Information Technology Specialist
-  duration: Jan, 2019 &mdash; Jun, 2019
+  position: Network Administrator
+  duration: Jan, 2019 &mdash; Aug, 2019
   summary: Baku, Azerbaijan
 
 - company: Rabitabank OJSC
   position: Network Administrator
-  duration: Feb, 2018 &mdash; Sep, 2018
+  duration: Feb, 2018 &mdash; Dec, 2018
   summary: Baku, Azerbaijan
 
 - company: GunayBank OJSC
-  position: Head of IT Infrastructure Unit
-  duration: Sep, 2017 &mdash; Feb, 2018
+  position: System Administrator
+  duration: Aug, 2017 &mdash; Feb, 2018
   summary: Baku, Azerbaijan
 
 - company: KapitalBank OJSC
